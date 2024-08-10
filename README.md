@@ -1,3 +1,3 @@
 
-# Flutter Launcher
-Testing Flutter, based on fireship course ;)
+# Flutter Launche
+App, based on fireship course ;)
